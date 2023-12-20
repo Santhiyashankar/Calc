@@ -170,9 +170,8 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![Alt text](<Screenshot (152)-2.png>) 
-![Alt text](<Screenshot (151)-1.png>)
-
+![Alt text](<sandy/Screenshot (151)-2.png>)
+![Alt text](<sandy/Screenshot (152)-1.png>)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
